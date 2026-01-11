@@ -1,0 +1,24 @@
+# Git
+.git
+.gitignore
+
+# Go
+bin/
+vendor/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Docker
+docker-compose.yaml
+Dockerfile
+.dockerignore
+
+# IDEs
+.idea/
+.vscode/
+
+# Build artifacts
+docs/
